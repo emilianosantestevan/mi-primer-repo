@@ -1,0 +1,11 @@
+---
+title: "Prueba"
+format: html
+editor: visual
+---
+
+## hola
+
+```{r}
+print("intro a git y github")
+```
